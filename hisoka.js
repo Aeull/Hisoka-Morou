@@ -3043,7 +3043,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Bot',
-                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+                                    url: 'https://chat.whatsapp.com/LHfAOQ4sa2g40Bu5sXDWva'
                                 }
                             }, {
                                 callButton: {
@@ -3052,7 +3052,7 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Status Bot',
+                                    displayText: 'Kecepatan Bot',
                                     id: 'ping'
                                 }
                             }, {
