@@ -2726,8 +2726,9 @@ let capt = `⭔ Title: ${judul}
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
-                anu = `Hallo Kak *${pushname}*! 
-Bot Ini Adalah Beta Multi-Device WhatsApp.
+                anu = `ᴴᵃˡˡᵒ ᴷᵃᵏ *${pushname}*! 
+ʙᴏᴛ ɪɴɪ ᴀᴅᴀʟᴀʜ ʙᴇᴛᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴡʜᴀᴛꜱᴀᴘᴘ.
+ꜱᴀʏᴀ ᴅɪᴄɪᴘᴛᴀᴋᴀɴ ᴏʟᴇʜ ᴀʀᴜʟʟ,
 
 ❏ *Info Creator*
 > ɴᴀᴍᴇ : *ᴀʀᴜʟʟᴏꜰᴄ*
@@ -3039,7 +3040,7 @@ Bot Ini Adalah Beta Multi-Device WhatsApp.
 │⭔ ${prefix}setmenu [option]
 │
 └───────⭓
-_Donasi Ngab Jangan Ngarep Free Mulu_`
+ᴅᴏɴᴀꜱɪ ɴɢᴀʙ ᴊᴀɴɢᴀɴ ɴɢᴀʀᴇᴘ ꜰʀᴇᴇ ᴍᴜʟᴜ`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Bot',
